@@ -22,5 +22,13 @@ The project successfully addresses the challenge of fine license plate reading i
 Future work can involve fine-tuning the model to handle variations in lighting, weather conditions, image quality. Current models might struggle if multiple vehicles are captured in an image. Future models can be designed to detect and recognize multiple license plates simultaneously. Furthermore, continuous model updates and improvements can be made based on user feedback and emerging technologies in the field of object detection and computer vision.
 
 # Web App Samples:
+![1](https://github.com/user-attachments/assets/fee1679b-7c6d-4e62-aee6-3bdb2bd2b671)
+![4](https://github.com/user-attachments/assets/1b98a437-9b5d-4d06-823b-7f9ac268e6ef)
 
+# Metrics:
+![2](https://github.com/user-attachments/assets/1dfdf3d2-c40d-46b5-8c40-bcf79723954e)
+![8](https://github.com/user-attachments/assets/48340e16-a974-4365-9804-a1d25a29b68b)
+
+# Video Sample:
+https://github.com/user-attachments/assets/8e7e064c-5d2b-404e-815d-39bf897610b3
 
